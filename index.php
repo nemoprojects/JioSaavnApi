@@ -46,7 +46,7 @@ if ($dl == "true") {
 <center><input type="submit" style="font-size:15px;" ></center>
 </form>
 
-<h2 style="font-size:5vw;"><center><?php echo $name;?></center></h2>
+<h2><center><?php echo $name;?></center></h2>
 <center><img src="<?php echo $image;?>" alt="Image" width="400" height="400"></center>
 
 <center><audio controls>
